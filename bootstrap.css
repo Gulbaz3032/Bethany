@@ -1,0 +1,28 @@
+.body{
+    background-image: url(img1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.row{
+    --bs-gutter-x: 0 !important;
+}
+.content{
+    text-align: center;
+    margin-top: 16%;
+}
+.Started{
+    border-radius: 32px;
+    padding: 10px;
+    border: 1px solid white;
+    width: 140px;
+    background-color: transparent;
+}
+.button{
+    border-radius: 32px;
+    padding: 10px;
+    border: 1px solid white;
+    width: 140px;
+    margin-left: 100px;
+    background-color: transparent;
+}
